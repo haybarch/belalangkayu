@@ -1,6 +1,6 @@
 {
-  "name": "cengcorang",
-  "version": "1.1.7",
+  "name": "belalangkayu",
+  "version": "1.2.15",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -26,6 +26,14 @@
   },
   "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
   "main": "postcss.config.js",
-  "author": "",
-  "license": "ISC"
+  "author": "hybrch",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haybarch/belalangkayu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haybarch/belalangkayu/issues"
+  },
+  "homepage": "https://github.com/haybarch/belalangkayu#readme"
 }
